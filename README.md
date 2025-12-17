@@ -1,19 +1,18 @@
-# Games
+# Bilibili
 
-## Game News & Reviews
+下面记录了一些我认为非常高质量的Bilibili创作者。
 
-- [任评测](https://space.bilibili.com/14626386) - 人如其名只专注于NS内容的评测&科普
-- [任游研究员](https://space.bilibili.com/1091459389) - Nintendo宣传片和游戏资料
+-   [食贫道@bilibili](https://space.bilibili.com/39627524)
+-   [三宋在这@bilibili](https://space.bilibili.com/32025839)
+-   [庄子HD@bilibili](https://space.bilibili.com/361556391)
+    -   [庄子没有HD@bilibili](https://space.bilibili.com/1204026886)
+-   [jyhachi@bilibili](https://space.bilibili.com/91236407)
+-   [竹本一世@bilibili](https://space.bilibili.com/19151588)
+-   [狂阿弥_@bilibili](https://space.bilibili.com/3433092)
+    -   [S呐_](https://space.bilibili.com/273139194)
+    -   [一只阿弥仔@bilibili](https://space.bilibili.com/231338184)
+-   [cbvivi@bilibili](https://space.bilibili.com/224335)
+-   [阿猪米德@bilibili](https://space.bilibili.com/34743353)
+-   [leon_ye@bilibili](https://space.bilibili.com/397779)
+-   [马鲨鲨鲨@bilibili](https://space.bilibili.com/389992601)
 
-## Game Streamers
-
-- [lolo今天玩什么](https://space.bilibili.com/33696) - bilibili 直播高能主播
-    - [live](https://live.bilibili.com/297)
-    
-- [深辰S](https://space.bilibili.com/4238285) - bilibili 知名游戏UP主 - 认真分享每一个游戏
-
-## Game Fans & Enthusiasts
-
-- [天气TK](https://space.bilibili.com/127212)
-- [Gamer任天狗](https://space.bilibili.com/2878451) - bilibili 知名游戏UP主
-- [少枫儿](https://space.bilibili.com/12609913) 
